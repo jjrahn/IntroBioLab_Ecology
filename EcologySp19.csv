@@ -1,0 +1,49 @@
+Code,Site_name,Plot_type,Plot_number,Groundcover_species_richness,Groundcover_Simpson,Groundcover_Shannon,Invert_species_richness,Invert_Simpson,Invert_Shannon,Deer_photos,Other_photos,Topsoil_pH,Topsoil_P,Topsoil_N,Topsoil_K,Topsoil_class
+1- MN F,Mill Neck,Fenced,1,9,0.591,1.311,1,0,0,,,5.5,1,1,100,loamy sand
+2- MN F,Mill Neck,Fenced,2,15,0.334,0.864,5,0.69,1.295,,,6.5,1,1,175,loamy sand
+3- MN F,Mill Neck,Fenced,3,6,0.508,0.895,6,0.691,1.344,,,6,1,1,150,loamy sand
+4- MN U,Mill Neck,Unfenced,4,7,0.578,1.151,6,0.588,1.2,68,14,5.5,1,1,50,loam
+5- MN U,Mill Neck,Unfenced,5,10,0.639,1.5,7,0.832,1.709,96,0,6,1,1,20,sandy loam
+6- MN U,Mill Neck,Unfenced,6,9,0.803,1.764,6,0.696,1.368,71,12,6.5,1,1,150,loamy sand
+MN T1,Mill Neck,Transect,1,10,0.409,0.915,6,0.952,1.748,,,5.5,1,1,120,sandy loam
+MN T2,Mill Neck,Transect,2,11,0.803,1.787,6,0.848,1.657,,,6,1,1,120,loamy sand
+MN T3,Mill Neck,Transect,3,5,0.603,1.046,4,0.323,0.639,,,6.5,1,1,100,loamy sand
+7- N1 F,Nelsen 1,Fenced,7,8,0.76,1.577,6,0.655,1.31,,,4.5,1,1,50,sandy loam
+8- N1 F,Nelsen 1,Fenced,8,8,0.815,1.779,1,0,0,,,5,1,1,120,loam
+9- N1 F,Nelsen 1,Fenced,9,12,0.831,2.02,13,0.881,2.205,,,5,1,1,150,loamy sand
+10- N1 U,Nelsen 1,Unfenced,10,7,0.373,0.862,6,0.819,1.582,30,16,4.5,1,1,50,sandy loam
+11- N1 U,Nelsen 1,Unfenced,11,6,0.597,1.089,4,0.638,1.063,63,31,4.5,1,1,100,sandy loam
+12- N1 U,Nelsen 1,Unfenced,12,7,0.513,1.106,10,0.793,1.838,0,17,4.5,1,1,100,loamy sand
+N1 T1,Nelsen 1,Transect,1,10,0.873,2.033,1,0,0,,,4,1,1,10,sandy loam
+N1 T2,Nelsen 1,Transect,2,5,0.582,1.085,3,0.524,0.796,,,4,1,1,100,sandy loam
+N1 T3,Nelsen 1,Transect,3,10,0.202,0.558,12,0.379,1.014,,,4.5,1,1,120,sandy loam
+13- LN U,Loner,Unfenced,13,3,0.087,0.147,6,0.395,0.834,153,26,4,1,1,150,sandy loam
+14- LN F,Loner,Fenced,14,5,0.532,1.068,5,0.6,1.127,,,4,1,1,350,loam
+LN T,Loner,Transect,1,2,0.033,0.084,5,0.476,0.95,,,4,20,10,130,sand
+15- N2 F,Nelsen 2,Fenced,15,6,0.308,0.644,7,0.625,1.333,,,5,1,1,100,loamy sand
+16- N2 F,Nelsen 2,Fenced,16,7,0.518,1.026,7,0.636,1.323,,,5,1,1,200,loam
+17- N2 F,Nelsen 2,Fenced,17,8,0.664,1.435,8,0.468,0.998,,,5,1,1,100,loam
+18- N2 U,Nelsen 2,Unfenced,18,8,0.773,1.667,4,0.676,1.16,28,3,4.5,1,1,100,sandy loam
+19- N2 U,Nelsen 2,Unfenced,19,6,0.091,0.261,6,0.555,1.123,15,6,5,1,1,200,loam
+20- N2 U,Nelsen 2,Unfenced,20,13,0.719,1.77,12,0.809,1.946,26,27,4,1,1,130,loam
+N2 T1,Nelsen 2,Transect,1,5,0.772,1.43,5,0.791,1.433,,,5,1,1,300,loam
+N2 T2,Nelsen 2,Transect,2,9,0.883,2.023,8,0.76,1.616,,,5,1,1,200,loam
+N2 T3,Nelsen 2,Transect,3,8,0.36,0.865,8,0.85,1.841,,,5,1,1,120,loam
+21- CO U,Compton,Unfenced,21,5,0.596,1.122,9,0.755,1.568,31,2,5,1,1,10,sandy loam
+22- CO U,Compton,Unfenced,22,10,0.682,1.468,7,0.268,0.667,26,4,5.5,1,1,150,sand
+23- CO U,Compton,Unfenced,23,9,0.684,1.312,6,0.732,1.472,15,0,5,1,1,50,loamy sand
+24- CO F,Compton,Fenced,24,10,0.209,0.552,7,0.824,1.719,,,5.5,1,1,130,sandy loam
+25- CO F,Compton,Fenced,25,10,0.67,1.509,4,0.467,0.857,,,5,1,1,90,sand
+26- CO F,Compton,Fenced,26,9,0.582,1.221,8,0.497,1.126,,,5.5,1,1,100,sand
+CO T1,Compton,Transect,1,7,0.377,0.84,7,0.619,1.315,,,5,1,1,100,loamy sand
+CO T2,Compton,Transect,2,3,0.336,0.563,6,0.682,1.35,,,5,1,1,1,loamy sand
+CO T3,Compton,Transect,3,8,0.598,1.32,7,0.804,1.672,,,5,1,1,100,sandy loam
+27- CC F,Clown Car,Fenced,27,15,0.112,0.34,10,0.598,1.327,,,6.8,1,1,100,loam
+28- CC U,Clown Car,Unfenced,28,9,0.503,1.154,14,0.655,1.616,47,215,7,1,1,150,sandy loam
+CC T,Clown Car,Transect,1,11,0.341,0.799,17,0.875,2.304,,,5.5,1,1,200,sandy loam
+29- YJ U,Yellow Jacket,Unfenced,29,15,0.874,2.267,15,0.874,2.267,53,22,5,1,1,150,loamy sand
+30- YJ F,Yellow Jacket,Fenced,30,8,0.738,1.551,5,0.808,1.479,,,4.5,1,1,100,loamy sand
+YJ T,Yellow Jacket,Transect,1,10,0.826,1.926,4,0.443,0.804,,,5.5,1,1,200,sand
+31- K F,Keck,Fenced,31,17,0.816,2.06,5,0.724,1.324,,,5,1,1,100,sandy loam
+32- K U,Keck,Unfenced,32,9,0.762,1.663,5,0.618,1.132,164,55,5,1,1,200,sandy loam
+K T,Keck,Transect,1,8,0.741,1.522,8,0.866,1.91,,,5,1,1,75,sand
