@@ -1,4 +1,6 @@
 # IntroBioLab_Ecology
+**Scroll down to read the update from the latest interation of this lab module**
+
 Jupyter notebook and data for BIOL221
 This repository contains Jupyter notebooks and example data that were used in Fall 2017 BIOL221 Intro Biology Lab.
 Week 2 material includes the Jupyter notebook with all code cells executed (Week 2 notebook vf.ipynb), the completed data in Excel (Leaf_data_example_set1.xlsx), and the worksheet students completed (Week 2 worksheet.docx).
@@ -9,3 +11,10 @@ Clicking on the notebook file while in GitHub will render the notebook in html f
 Alternatively, you can download and install Anaconda (www.anaconda.com/downoload/) and run the Jupyter Notebook from the Anaconda Navigator. You will need to download the Notebook file as well as the Excel spreadsheet containing the data in order for the Notebook to function.
 
 https://doi.org/10.5281/zenodo.1401210
+
+UPDATE!!! 07/17/2019
+Using the Goolge platform Colab (https://colab.research.google.com) is a much better way to implement the Jupyter Notebook in the classroom. This platform runs entirely in the cloud and requires no installation of Anaconda. The repository has been updated to include versions of the notebooks that are compatible with Colab. 
+The "Colab leaf data notebook Sp19.ipynb" file can be downloaded and open from within the Colab environment. The Notebook requires the dataset titled "Leaf_data_example_student.csv".
+The "Colab ecology data notebook Sp19.ipynb" file can operated similarly and requires the dataset titled "EcologySp19.csv". 
+These two notebooks contain minor code modifications allowing them to work in the Colab environment.
+This setup was used successfully in the Spring 2019 semester.
