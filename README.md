@@ -1,5 +1,5 @@
 # IntroBioLab_Ecology
-**Scroll down to read the update from the latest interation of this lab module**
+**Scroll down to read the update from the latest version of this lab module**
 
 Jupyter notebook and data for BIOL221
 This repository contains Jupyter notebooks and example data that were used in Fall 2017 BIOL221 Intro Biology Lab.
